@@ -1,0 +1,12 @@
+.product-card{
+    border: 2px yellowgreen solid ;
+    margin-bottom: 10 px;
+    background-color: antiquewhite;
+    padding: 10 px;
+}
+.product-card input{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rebeccapurple;
+}
